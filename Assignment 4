@@ -1,0 +1,131 @@
+void main (){
+    var name ="hello world";
+    print (name);
+
+// var assignment="\tAssignment=4\n";
+//   print (assignment);
+//   var q1="(1) To make a function that take a number as parameter, and print the table of that number\n.";
+//   print (q1);
+//   var ans1="\tans=1\n";
+//   print (ans1);
+
+
+// table(25);
+// }
+  
+  
+//   void table (var b){
+//     for (int a=1;a<=10;a++){
+//       print("${b} x ${a} = ${a*b}");
+
+//   var q2="(2) List lst = [2,4,6,8,9]; \nMake a function that takes a number as parameter and divide that parameter to every element \nin the list";
+//   print (q2);
+  
+//   var ans2="\tans=2\n";
+//   print (ans2);
+  
+//   abc(2);
+
+// }
+ 
+// void abc (var n){
+  
+
+//     var a = [2,4,6,8,9];
+//     for (int i=0 ;i<a.length ;i++){
+//       var result =n/a[i];
+//       print ("${n}/${a[i]}=${result}");
+//     }
+
+//   var q3="(3) Make a function in class and then call it outside class.";
+//   print (q3);
+//   var ans3="\tans=3\n";
+//   print (ans3);
+  
+//  Abc obj=Abc();
+//    obj.name="Abdul Samad";
+//   print(obj.name);
+//   print(obj.age);
+//   print(obj.gmail);
+   
+// }
+// class Abc{
+//   var name;
+//   var age=20;
+//   var gmail="abdulsamaddd12@gmail.com";
+// }
+
+ //var q4="(4) Print your name in a sentence using classes.";
+//   print (q4);
+  
+//   var ans4="\tans=4\n";
+//   print (ans4);
+ 
+//   Xyz obj=Xyz();
+//   obj.id("Abdul Samad");
+  
+// }
+
+// class Xyz{
+//   void id(var name){
+//     print ("My name is ${name}");
+//   }
+
+ // var q5="Make a constructor that requires your name, age, education and then print that.";
+//   print (q5);
+//   var ans5="\tans=5\n";
+//   print (ans5);
+  
+//  info obj=info(name:"Abdul Samad",age:"20",education:"BS in Computer Science");
+//   obj.setinfo();
+  
+  
+// }
+//  class info{
+//    var name;
+//    var age;
+//    var education;
+   
+//    info({required this.name, required this.age,required this.education});
+//    void setinfo(){
+     
+   
+//    print ("My name is ${name} and My age is ${age} and Education is ${education}");
+//  } 
+
+  
+//   var q6="Write a Code using inheritance";
+//   print (q6);
+//   var ans6="\tans6\n";
+//   print (ans6);
+  
+//   animal obj= animal();
+//   obj.alive();
+//   human obj1= human();
+//   obj1.hungry();
+//   education obj2=education();
+//   obj2.pass();
+  
+  
+// }
+//   class animal{
+//     void alive(){
+//       print("The animal is alive");
+      
+//     }
+//   } 
+//   class human{
+//     void hungry(){
+//       print ("I am hungry");
+//     }
+//   }
+//   class education{
+//     void pass(){
+//       print ("My percentage is highest in class");
+//     }
+
+
+
+
+
+}
